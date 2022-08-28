@@ -7,7 +7,7 @@
         
 }
 
-@media (min-width: 800px){
+@media (min-width: 800px),(min-width: 1200px){
     #main{
     margin-top: 120px;
         text-align: left;
